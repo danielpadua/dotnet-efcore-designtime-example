@@ -8,5 +8,6 @@ Para ler o guia completo acesse: https://medium.com/@danielpadua/efcore-implemen
 
 1. Clonar este projeto: `git clone https://github.com/danielpadua/dotnet-efcore-designtime-example.git`;
 2. Navegar até o diretório: `cd dotnet-efcore-designtime-example/src/DesignTimeExample`;
-3. Atualizar o banco de dados SQLite com a migration atual: `dotnet ef database update`;
-4. Executar o projeto: `dotnet run`.
+3. Verificar a variável de ambiente que define o ambiente da máquina em execução `echo $ASPNETCORE_ENVIRONMENT` para atribuir: `export ASPNETCORE_ENVIRONMENT=<Ambiente>`;
+4. Atualizar o banco de dados SQLite com a migration atual: `dotnet ef database update`;
+5. Executar o projeto: `dotnet run`.
