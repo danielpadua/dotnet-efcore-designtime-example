@@ -2,7 +2,7 @@
 
 Este repositório é um exemplo de como implementar uma DesignTimeDbContextFactory genérica e multi-ambiente usando .Net Core e EfCore + Migrations
 
-Para ler o guia completo acesse: https://medium.com/@danielpadua/efcore-implementando-um-designtimedbcontextfactory-multi-ambiente-7f384d62cf2
+Para ler o guia completo acesse: https://medium.com/danielpadua/efcore-migrations-implementando-um-designtimedbcontextfactory-multi-ambiente-7f384d62cf2
 
 # Como executar
 
